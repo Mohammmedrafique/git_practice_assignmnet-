@@ -1,0 +1,14 @@
+//
+ let  count1 =5
+    for(let i=0;i<=a;i++){
+        if(a%i===0){
+            count1++
+        }
+  }
+    if(count1==2){
+        console.log("True")
+    }else{
+        console.log("False")
+    }
+
+ 
